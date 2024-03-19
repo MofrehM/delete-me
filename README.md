@@ -1,2 +1,2 @@
 Some info for READme file
-Another texts added from gitHub
+Another texts added from gitHub.
